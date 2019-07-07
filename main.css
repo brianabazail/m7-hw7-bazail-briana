@@ -1,0 +1,59 @@
+* {
+  border: 0;
+  margin: 0;
+  padding: 0;
+}
+
+article, aside, details, figcaption, figure, footer, header, main, nav, section, summary {
+  display: block;
+}
+
+
+header {
+	background-color: #EDBB99;
+}
+
+h1 {
+  color: #CD6155;
+	text-align: center;
+	padding: 4%;
+  font-family: 'Rubik Mono One', sans-serif;
+}
+
+h2 {
+  color: #CD6155;
+  text-align: center;
+  padding: 1%;
+  font-family: 'Rubik Mono One', sans-serif;
+}
+
+p {
+  font-family: 'Heebo', sans-serif;
+  text-align: center;
+  padding: 1%;
+}
+
+main {
+	background-color: #FDF2E9;
+  padding: 3%;
+}
+
+figure img {
+	display: block;
+	margin: auto;
+  width: 100%;
+	padding: 25px;
+	max-width: 400px;
+  border: 17px solid #CD6155;
+}
+
+figure {
+	padding-top: 2%;
+  padding-bottom: 2%;
+  display: flex;
+  justify-content: center;
+}
+
+footer {
+  background-color: #EDBB99;
+}
