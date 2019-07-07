@@ -45,7 +45,6 @@ figure img {
   width: 100%;
 	padding: 25px;
 	max-width: 400px;
-  border: 17px solid #CD6155;
 }
 
 figure {
@@ -57,4 +56,12 @@ figure {
 
 footer {
   background-color: #EDBB99;
+}
+
+.hide {
+  display: none;
+}
+
+.border {
+  border: 17px solid #CD6155;
 }
