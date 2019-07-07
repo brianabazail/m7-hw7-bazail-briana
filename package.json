@@ -1,0 +1,24 @@
+{
+  "name": "m7-hw7-bazail-briana",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src -d lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brianabazail/m7-hw7-bazail-briana.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brianabazail/m7-hw7-bazail-briana/issues"
+  },
+  "homepage": "https://github.com/brianabazail/m7-hw7-bazail-briana#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0"
+  }
+}
